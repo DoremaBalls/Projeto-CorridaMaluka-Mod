@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Karting/Projeto/prefab/StartFinishLine.prefab.meta
 guid: 8b2c1f38cff36e048a344c4621bb4c3c
+=======
+guid: 1d8b811ebf88ce9429b7455fb2125c02
+>>>>>>> f0659ea363c77f5d81403d91d653d0b41f73ecb2:Assets/Karting/Projeto/Scenes/prefab/StartFinishLine.prefab.meta
 PrefabImporter:
   externalObjects: {}
   userData: 
